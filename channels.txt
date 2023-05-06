@@ -145,3 +145,5 @@ http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Otros" tvg-id="SETANTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" ,SETANTA SPORTS 1080  7206
 http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,F1 1080 multi  e5dd
+http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
