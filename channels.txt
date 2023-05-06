@@ -57,6 +57,8 @@ http://127.0.0.1:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
 http://127.0.0.1:6878/ace/getstream?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 720  a52b
 http://127.0.0.1:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
+#EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,Dazn F1 1080 multi  e5dd
+http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080  8b2e
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720  47c6
@@ -145,7 +147,5 @@ http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Otros" tvg-id="SETANTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" ,SETANTA SPORTS 1080  7206
 http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,F1 1080 multi  e5dd
-http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 EXTINF:-1 group-title="OTROS" tvg-logo="https://i.imgur.com/h08GMpz.jpg" ,Kings League
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrUEcrXSh9q6MqyHBL8FTsadktdBMUYk4yKUUH8oagFUgHVuI3pQ6jnNrQUKjxe7LBNWjqQ6M6i1e_5qHzdYkLPtymxbA8IRVByD4zUg4rwb3XjRl3OKDgEJgVJpjv1d4mIh8L_4w9BjpIabMZNwuVGKgIc-nQMi65Ezy5P82DxUSqLA-O7j5ODV3BILIrFlhsPKRCqXWhxuJgpyjbrNGY2VfkjF3kLY5nUVzesd41C8jdt0_JQ6n1ueYStnfNRzL8y-7uAEObevVig8psdC-GXce081pCYsaL-EbOl-Obv84-7GVOaAhu2JPIKDeI-k-Q5iMFAq12q31UUO2ra0nXW_leGT0eqRRcF1ZD7ujS1ZAZHZG-HBiZqyAUIhQx9jERIdst7hH8Ttp-42cDe7n9fykW7FykCySUV7ZgPtL9bQzoKzdbxgtKWPOjLZT6n8WG1wqeYfmU2bsRbSN3A1qv4n1p_R0YaD9UOTCt1bI0NHq91i1Y1dzPN7cwgMP05QfYvsCsd28HgM7KFdowh9bMj-2fSLRLzfzGz5z3WxXt69L6JnhabokNCmG9deT9OgWpmQXvjqi6Iwpw4YI3D6p0wYwnzNxJ3wfBSA_9hsUzL4Ti3YOifh1QMIIHepivYB6fz8NyI5x1NCih7viFrySXVXx7ayFPGGrWhKRot9H5-M-X2bIp9Muu2ckb0wIkEF-OTKdhkmhakhXZrIuMCSBKzE6neO_m_ZFR74nT66KmbYfvYk6_NXgRoM25QAAkR-iOetHOj0IAEqCWV1LXdlc3QtMjDABg.m3u8
