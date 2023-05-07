@@ -95,7 +95,7 @@ http://127.0.0.1:6878/ace/getstream?id=f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="M+ LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,LaLiga TV Bar 1080  ed2a
 http://127.0.0.1:6878/ace/getstream?id=ed2a15319345fb0739590faf88d8be4cb1663bf3
-#EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="M+ LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,BarÃ§a 720  e336
+#EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="M+ LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV HD" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,LaLiga Smartbank 1080  7791
 http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
@@ -133,7 +133,7 @@ http://127.0.0.1:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
 http://127.0.0.1:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
 #EXTINF:-1 group-title="Otros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV 3 1080  6c52
 http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1 group-title="Otros" tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS Ã±  4853
+#EXTINF:-1 group-title="Otros" tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ  4853
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 #EXTINF:-1 group-title="Otros" tvg-id="I249.19158.schedulesdirect.org" tvg-logo="https://i.ibb.co/CBW0Z8K/Espn.png" ,ESPN COLOMBIA  2492  2492
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
