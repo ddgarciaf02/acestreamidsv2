@@ -133,7 +133,7 @@ http://127.0.0.1:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
 http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 #EXTINF:-1 group-title="Otros" tvg-id="I873.76943.schedulesdirect.org" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS ñ  4853
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
-#EXTINF:-1 group-title="Otros" tvg-id="M+ LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,Barça 720  e336
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Barça 720  e336
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 group-title="Otros" tvg-id="ESPNColombia.co" tvg-logo="https://i.ibb.co/CBW0Z8K/Espn.png" ,ESPN COLOMBIA  2492  2492
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
