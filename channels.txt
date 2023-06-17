@@ -141,8 +141,8 @@ http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title="Otros" tvg-id="TELEDEPORTE" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" ,tdp 1080  e239
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
-#EXTINF:-1 group-title="Otros" tvg-id="I217.33395.zap2it.com" tvg-logo="https://raw.githubusercontent.com/astroB0Y/logos/main/Tennis%20Channel.jpg" ,Tennis Channel  1608
-http://127.0.0.1:6878/ace/getstream?id=16089ab3f31a2756cf2ba6d507ff367cce14df83
+#EXTINF:-1 group-title="Otros" tvg-id="I217.33395.zap2it.com" tvg-logo="https://raw.githubusercontent.com/astroB0Y/logos/main/Tennis%20Channel.jpg" ,Tennis Channel  9292
+http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 group-title="Otros" tvg-id="CUATRO HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080  e8ee
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF:-1 group-title="Otros" tvg-id="BE MAD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,BeMad 1080  5c26
