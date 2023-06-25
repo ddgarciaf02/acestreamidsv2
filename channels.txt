@@ -171,14 +171,6 @@ http://127.0.0.1:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Otros" tvg-id="SETANTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" ,SETANTA SPORTS 1080  7206
 http://127.0.0.1:6878/ace/getstream?id=72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1 group-title="Otros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,[PT] SPORT TV 1 HD 1080  c954
-http://127.0.0.1:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,c95422bc904378be0b035eba721d5e6a004f7d79  79b2
-http://127.0.0.1:6878/ace/getstream?id=79b2be4557a5e82201c4fc87fe0ba7cbd72e6857
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UFC 24/06  d4aa
-http://127.0.0.1:6878/ace/getstream?id=d4aa975dd59ae7f4e68ceadee8b77d65e9fc1360
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,UFC 24/06 2  078a
-http://127.0.0.1:6878/ace/getstream?id=078aba97b4781ad171fa4048ea9ab17092ac6bd1
 #EXTINF:-1 group-title="Otros" tvg-id="I217.33395.zap2it.com" tvg-logo="https://raw.githubusercontent.com/astroB0Y/logos/main/Tennis%20Channel.jpg" ,Tennis channel 2  51a6
 http://127.0.0.1:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
 #EXTINF:-1 group-title="Otros" tvg-logo="https://i.imgur.com/h08GMpz.jpg" ,Kings League
