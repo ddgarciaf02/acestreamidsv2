@@ -135,8 +135,8 @@ http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF+" ,M. Golf 1080  858b
 http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2" ,M. Golf2 1080  9a4f
-http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2" ,M. Golf2 1080  0742
+http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 #EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="M+ LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,La Liga BAR 1080  aa82
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg" ,LaLiga Hypermotion 1080  4c46
