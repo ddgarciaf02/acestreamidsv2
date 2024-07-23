@@ -167,16 +167,16 @@ http://127.0.0.1:6878/ace/getstream?id=629222201d6e36cc0f4ab6244362de32bed783b2
 http://127.0.0.1:6878/ace/getstream?id=d6ecda8ad7be7a9a4de3767eb40569b73b738cb4
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" ,LaLiga Hypermotion 12  7b97
 http://127.0.0.1:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddfb8
-#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport4k  c525
-http://127.0.0.1:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,EuroSport 1 1080  5e4c
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,EuroSport 2 1080  c373
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="Otros deportes" tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" ,GOL TV 1080  d462
-http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport4k  c525
+http://127.0.0.1:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Teledeporte" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" ,tdp 1080  e239
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="Otros deportes" tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" ,GOL TV 1080  d462
+http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 group-title="Otros deportes" tvg-id="I217.33395.zap2it.com" tvg-logo="https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg" ,Tennis Channel  9292
 http://127.0.0.1:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV 1 1080  ce23
@@ -191,6 +191,26 @@ http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
 http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 #EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" ,La2  6010
 http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro 4k  6313
+http://127.0.0.1:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro1 1080P  f233
+http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro2 1080  3e0d
+http://127.0.0.1:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro3 1080  a62c
+http://127.0.0.1:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro4 1080  76a4
+http://127.0.0.1:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro5 1080  914c
+http://127.0.0.1:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro6 1080  1bc6
+http://127.0.0.1:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro7 1080  e899
+http://127.0.0.1:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro8 1080  721a
+http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,Euro9 1080  dd9c
+http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 2  d6cd
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="Otros" tvg-id="Cuatro HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" ,CUATRO 1080  e8ee
