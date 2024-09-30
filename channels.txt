@@ -135,8 +135,8 @@ http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M. Deportes 7 1080  2448
 http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF+" ,M. Golf 1080  858b
-http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF+" ,M. Golf 1080  688c
+http://127.0.0.1:6878/ace/getstream?id=688cc3af0f517c598e07d35f1ce79f8bcba17d81
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2" ,M. Golf2 1080  0742
 http://127.0.0.1:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 #EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="M+ LALIGATV BAR" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,La Liga BAR 1080  aa82
