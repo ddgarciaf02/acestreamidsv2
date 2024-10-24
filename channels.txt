@@ -149,8 +149,8 @@ http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://telegra.ph/file/7431c20a1684dd79bca18.jpg" ,LaLiga Hypermotion 2 720  2709
 http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" ,LaLiga Hypermotion 3  bd2f
-http://127.0.0.1:6878/ace/getstream?id=bd2f7970c17f427ae92867e2eb86696dd7900a3e
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://telegra.ph/file/0fa86d461144e95473650.jpg" ,LaLiga Hypermotion 3  2019
+http://127.0.0.1:6878/ace/getstream?id=20196007a6697a1f11589fd4c8bab6713c265e64
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://telegra.ph/file/c08926d02912610b761f3.jpg" ,LaLiga Hypermotion 4  ef3a
 http://127.0.0.1:6878/ace/getstream?id=ef3a9359800bba51018fe00ac84afb8e79a7bbf2
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://telegra.ph/file/99ff7636249cc9bbb571c.jpg" ,LaLiga Hypermotion 5  7a6f
