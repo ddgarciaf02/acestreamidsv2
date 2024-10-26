@@ -54,7 +54,7 @@ http://127.0.0.1:6878/ace/getstream?id=3d0b2395098452617097896abb38956965b8a396
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4 HD" tvg-logo="https://telegra.ph/file/58cbca971f554effdfba8.jpg" ,dazn liga 4  6e97
 http://127.0.0.1:6878/ace/getstream?id=6e97745e481ee0be3b48720d4bfead7da2f08689
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5 HD" tvg-logo="https://telegra.ph/file/be7e3f2a10da528ba5e38.jpg" ,dazn liga 5  45db
-http://127.0.0.1:6878/ace/getstream?id=45db6feb1a8da2690a948532efd771992a7ea7c9</pre>
+http://127.0.0.1:6878/ace/getstream?id=45db6feb1a8da2690a948532efd771992a7ea7c9
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,M.L. Campeones 1080 MultiAudio  931b
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg" ,M.L. Campeones 1080 MultiAudio  f096
@@ -189,6 +189,10 @@ http://127.0.0.1:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
 http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="beIN SPORTS XTRA ñ" tvg-logo="https://i.imgur.com/XcjYBfj.png" ,beIN SPORTS Ã±  41af
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
+#EXTINF:-1 group-title="Otros deportes" tvg-id="UFC" tvg-logo="https://i.imgur.com/XiQLKnV.png" ,UFC Latino  1629
+http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 group-title="Otros deportes" tvg-id="UFC" tvg-logo="https://i.imgur.com/XiQLKnV.png" ,UFC Castellano  e454
+http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" ,La 1 UHD  61a3
 http://127.0.0.1:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 #EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" ,La2  6010
@@ -227,10 +231,6 @@ http://127.0.0.1:6878/ace/getstream?id=5c05217f1813045f2af2fe4ec77eb27b7f7deb6e
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 1  6002
 http://127.0.0.1:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 3  1629
-http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
-#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,PPVP 4  e454
-http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1 group-title="Ciencia" tvg-id="Discovery" tvg-logo="https://telegra.ph/file/bf0dbd8e082efdd1b4523.png" ,Discovery
 http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30194&extension=ts&play_token=H9QHtyNjwN
 #EXTINF:-1 group-title="Ciencia" tvg-id="HISTORIA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/HIST" ,Historia
