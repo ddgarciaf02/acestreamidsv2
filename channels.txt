@@ -148,3 +148,135 @@ http://127.0.0.1:6878/ace/getstream?id=98784fa0714190de289f42eb5b84e405df7e685a
 http://127.0.0.1:6878/ace/getstream?id=66a7e4727bccce8ccc04e54861b06b62d89452fa
 #EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/T5", Telecinco 1080  47e6
 http://127.0.0.1:6878/ace/getstream?id=47e6dd48dd7c9705d07b13139b80e44683fd5eb1
+
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", #VAMOS FHD 2 por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=6d949579bc230abff933d5ac242961319bbebc4b
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png", #VAMOS FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=b16127ba49c5065b877cb2d4073f2a4bb9a1ddbe
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="Antena 3 HD" tvg-logo="https://i.ibb.co/MDSKnC4/antena3.png", ANTENA 3 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=a6cfb25becd96cbe9d1929e0e560016beac40887
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="Cuatro HD" tvg-logo="https://i.ibb.co/wQsdHPp/cuatro.png", CUATRO FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=de6527833ce8e62aa0af3e64891e6e1f250726e0
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN 1 BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png", DAZN 1 BAR FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=0908f5dd264ded10b638636cb7479409cfee0813
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN 1 BAR" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png", DAZN 1 BAR FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=7f1bfe707b05074dcbc63f49692a637fff88801d
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png", DAZN 1 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=e6121426f7d8007ae9de8e782f05d91e9b27993d
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN 2 HD" tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png", DAZN 2 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=b056dfc53c18de02caeff4435ddb6b36bfb7b031
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN 3 HD" tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png", DAZN 3 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=b11dd020fc6e89b39b69c1f3bef032be72286e72
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN 4 HD" tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png", DAZN 4 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN EVENTOS 1 por Tronoss" tvg-logo="https://i.ibb.co/fGYbnyBR/dazne1.png", DAZN EVENTOS 1 por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=413ee8ca35110147e6644e7c3eed37eff46ba222
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN EVENTOS 2 por Tronoss" tvg-logo="https://i.ibb.co/93VGpyFM/dazne2.png", DAZN EVENTOS 2 por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=120dfcbe17c8c4ea2ae3fb7e50b1dbf9eb4a1ad0
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN EVENTOS 3 por Tronoss" tvg-logo="https://i.ibb.co/k2X2dxwm/dazne3.png", DAZN EVENTOS 3 por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=ea00d98ceb524da4ef7f2f0733661dbb31e48f7b
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png", DAZN F1 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=e53cba0be75d9a0f1e58f33af4cd525c5cfdb088
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN F1 HD" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png", DAZN F1 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=e41352c657506cfe6eecc4f17982f69275f1660b
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2", DAZN LA LIGA 2 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=c79b272e20f31d1be9103f582e87209a06a63927
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png", DAZN LA LIGA FHD (SAT) por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=28c8115681bf6e4565cb5e987530c2f606cc561f
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png", DAZN LIGA FHD MULTIAUDIO por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=f509888b9c39e8de6e275b19796d6cac5f3fd6cb
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png", DEPORTES 2 FHD (SOLO EVENTOS) por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=911b6c35f4802fd358b78b328528af4650eca020
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png", DEPORTES 3 FHD (SOLO EVENTOS) por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=dba6e81dab3150e40ca49bef03f931a990bb93ea
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png", DEPORTES 4 FHD (SOLO EVENTOS) por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=77b36b785e84efa9a41d2a1ef90dd9652b8d2916
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png", DEPORTES 5 FHD (SOLO EVENTOS) por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=5ff896ae397b57a68435b25cde2937fac3e6cec1
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Deportes 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png", DEPORTES 6 FHD (SOLO EVENTOS) por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=7ba003da71c2af61e5dd16c75ca025494769aa88
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png", DEPORTES FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=81c467f75aa3e4b02361730bb8973ca2234cf684
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png", ELLAS #V FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=e871097e11dc05086e945bd715e854be3c3c4082
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg", EUROSPORT 1 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=b16eeeb12d208029eff3dcc9e73613fd8b052737
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg", EUROSPORT 2 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=dfdf5353080a7e3d0f4b4c8e3cf4e0be19731652
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="La 1 HD" tvg-logo="https://i.ibb.co/CWR1GHy/la1.png", LA 1 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=71abebf150324106df1d9dc25e34dd8840217835
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="La 2" tvg-logo="https://i.ibb.co/JFbxR7w/la2.png", LA 2 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=d27e23deffb2314a9549b00d62fade1e2e38ed60
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", LA LIGA TV BAR FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=5834660ff7ae10f0514dc23c241c054dc0272d01
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png", LA LIGA TV UHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=7138311a683384297b7ba47020badf454a4376aa
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="La Sexta HD" tvg-logo="https://i.ibb.co/CW51B1F/lasexta.png", LA SEXTA FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=906191eed84a42d83939fd150ee3c04834bc0533
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png", LALIGA HYPERMOTION TV 3 FHD de Tronoss
+http://127.0.0.1:6878/ace/getstream?id=f93741dc38bac456018fe9906a4689c2c6405716
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png", LALIGA HYPERMOTION TV FHD de Tronoss
+http://127.0.0.1:6878/ace/getstream?id=c0f89f060d5134c855b6e3cc707c42ed0bf92498
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png", LALIGA HYPERMOTION TV2 HD de Tronoss
+http://127.0.0.1:6878/ace/getstream?id=7f7eaa56f11249f7b92b6287c4cd5d58dc77a61a
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 14" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2014.png", M+ LIGA DE CAMPEONES 14 SD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=b149283faf12a9e574380c7ad1eb227261eaca85
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 15" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2015.png", M+ LIGA DE CAMPEONES 15 SD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=bb8506403e19f80ab66e431f2a4c74089a909d06
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 16" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2016.png", M+ LIGA DE CAMPEONES 16 SD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=5a412fd44a1f46f3446988ddeed658d861dd6b70
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 17" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2017.png", M+ LIGA DE CAMPEONES 17 SD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=be4381d1d5203fc0c4879a097277bd7683235650
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png", M+ LIGA DE CAMPEONES 2 FHD (ORANGE) por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=e3f891c3dd120b4b1dab40e5c932ac65873a0465
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png", M+ LIGA DE CAMPEONES 2 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=061bda6fe2e50c509afd83f63a601e139d75d3a0
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png", M+ LIGA DE CAMPEONES 3 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=e42984ac6529407462f92201af95c01db8988368
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png", M+ LIGA DE CAMPEONES 4 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=01152274037c5f7155489e0a977cbde71a61290c
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png", M+ LIGA DE CAMPEONES 5 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=cc910aee690f70190b04920d61e39da5a6d0a057
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png", M+ LIGA DE CAMPEONES 6 SD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=7aded197b3e03057d5b27a27db981ef5eefd95fd
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png", M+ LIGA DE CAMPEONES 7 SD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=2e2ef8a653d36192d881a438c0578381ff39b5ea
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png", M+ LIGA DE CAMPEONES 8 SD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=7ca2282e0b700429e991152a82427a37583c5f5f
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png", M+ LIGA DE CAMPEONES FHD (ORANGE) por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=9796f85036cb987fa21ef70e4b5e608e06f0c29d
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png", M+ LIGA DE CAMPEONES FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=4e3302991c482dff2e10de69795fa5aa87a61ae7
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.ibb.co/grHNmyr/coparey.png", M+ Super Copa por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=6118cada4cbe7650eeb21d170e184c26a4cdc808
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Acción HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png", M. ACCION FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=a5e21f79ebd21c2562019ceefd9a7e21c8e2f6a5
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png", M.PLUS 2 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=0ab6bab2334d442b68671cc86c4243f2b0bf1290
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="Movistar Plus+ HD" tvg-logo="https://i.ibb.co/dMXrBBc/plus.png", M.PLUS FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=bf270b6486daf3a2aa54bc027fd7cb02401a447a
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Clásicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png", MOVISTAR CLASICOS FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=26c63851b7a0de9efed907571b19d342fc8d6765
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png", MOVISTAR GOLF 2 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=11078aceacd1be758f4c953a437fc1ecb8eca730
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Golf HD" tvg-logo="https://i.ibb.co/8bSvSX3/golf.png", MOVISTAR GOLF FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=e2a05b5dad62f8dd20822c08fc9fd5dc2245c512
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Hits HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png", MOVISTAR HITS FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=14767834db41c572ab83b80f7eadc3ba78a2ced0
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="PT | Sport TV NBA" tvg-logo="https://i.ibb.co/HTkpGcwp/Sport-TV-NBA.png", NBA NETWORK por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=8aa5c652b7e8e94c45e37eb5b60aef9dcd37839e
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="NBA TV HD" tvg-logo="https://i.ibb.co/HTrwPFj2/NBA-TV.png", NBA TV por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=7146e467aee3cb0bcdc286b39a3022c992428f01
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png", ORANGE LIGA (FIBRA) por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=7fc274f1bccb3d755c8e0760459bd81056eb998f
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="M+ Copa del Rey" tvg-logo="https://i.ibb.co/grHNmyr/coparey.png", Super Copa OrangeTV por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=25181134e74e9af67c27d6af8489d08179b599fb
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="Telecinco HD" tvg-logo="https://i.ibb.co/KGrwgx0/telecinco.png", TELECINCO FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=e53c497c3a56968bc11fa3771c813fc740e355e3
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="UFC 24/7 HD" tvg-logo="https://i.ibb.co/Lz2CSNK2/UFC247.png", UFC 24/7 FHD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=008722562de872871b879d9d0cab4fb4b79784b2
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="UFC Fight Pass HD" tvg-logo="https://i.ibb.co/PsbDHNz3/UFCFight-Pass.png", UFC Fight Pass por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=e3ad553098e0c1e70cba1ea2a906dc27aa3452a2
+#EXTINF:-1, group-title="NUEVOS CANALES" tvg-id="UFC TV HD" tvg-logo="https://cdn6.aptoide.com/imgs/4/2/7/42758821384c528cef14cd8409c8c482_icon.jpg", UFC TV HD por Tronoss
+http://127.0.0.1:6878/ace/getstream?id=c73e3eefe1f4a90fd7495f8be2d5f772d758713b
+
